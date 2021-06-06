@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @abodamulla
+- 👀 I’m interested in Coding, Movies, 
+- 🌱 I’m currently learning ReactJS
+- 📫 How to reach me by: karem-mla@hotmail.com
